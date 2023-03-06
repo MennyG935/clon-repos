@@ -17,7 +17,7 @@ jobs:
   bash-example:
     runs-on: ubuntu-latest
     steps:
-      - name: Group of log lines
+      - name: Lineas de texto en consola
         run: |
             echo "Confide"
             echo "Im with my toes on the edge its such a lovely view"
