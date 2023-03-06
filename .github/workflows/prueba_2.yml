@@ -19,6 +19,11 @@ jobs:
     steps:
       - name: Group of log lines
         run: |
-            echo "Prueba de que funciona el github action"
-            echo "Un saludo desde la consola de github action"
-            echo "Sexooooooooo"
+            echo "Confide"
+            echo "Im with my toes on the edge its such a lovely view"
+            echo "Inside"
+            echo "I never loved anything untill i loved you"
+            echo "Don't Cry"
+            echo "Im over th edge what can I do"
+            echo "But, shine"
+            echo "I havent a thing until i loved you"
